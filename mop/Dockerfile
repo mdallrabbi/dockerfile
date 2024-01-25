@@ -7,6 +7,8 @@
 #
 FROM golang:alpine as builder
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 RUN apk --no-cache add \
 	ca-certificates \
 	git

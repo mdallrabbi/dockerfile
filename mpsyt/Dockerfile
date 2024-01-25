@@ -1,5 +1,6 @@
 FROM python:3-alpine
-LABEL maintainer "Justin Garrison <justinleegarrison@gmail.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apk add --no-cache \
 	mplayer \

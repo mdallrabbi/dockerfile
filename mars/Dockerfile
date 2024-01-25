@@ -1,5 +1,7 @@
 FROM openjdk:8-alpine
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 RUN set -x \
 	&& apk add --no-cache --virtual .build-deps \
 		ca-certificates \
