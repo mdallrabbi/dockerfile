@@ -1,5 +1,6 @@
 FROM	ruby:alpine
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN	apk add --no-cache \
 	ca-certificates \
