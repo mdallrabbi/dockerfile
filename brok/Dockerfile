@@ -1,6 +1,6 @@
 FROM haskell:8.8
 
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN cabal update && cabal install brok
 
