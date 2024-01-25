@@ -1,4 +1,5 @@
 FROM python:3-alpine
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apk add --no-cache \
 	ca-certificates \
