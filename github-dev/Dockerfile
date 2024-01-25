@@ -1,6 +1,5 @@
 FROM golang:alpine
-MAINTAINER Jessica Frazelle <jess@linux.com>
-
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 RUN	apk add --no-cache \
 	bash \
 	ca-certificates \

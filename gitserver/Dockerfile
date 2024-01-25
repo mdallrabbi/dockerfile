@@ -6,7 +6,7 @@
 # 	--name gitserver \
 # 	jess/gitserver
 FROM alpine:latest
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 ENV HOME /root
 

@@ -8,6 +8,8 @@
 #
 FROM python:2-alpine
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 RUN pip install gixy
 
 ENTRYPOINT ["gixy"]
