@@ -8,7 +8,7 @@
 # 	ansible all -m ping
 #
 FROM python:3-alpine
-LABEL maintainer "Christian Koep <christiankoep@gmail.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN builddeps=' \
 		musl-dev \
