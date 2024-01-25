@@ -19,7 +19,7 @@
 #
 
 FROM debian:sid-slim
-LABEL maintainer "Christian Koep <christiankoep@gmail.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
 

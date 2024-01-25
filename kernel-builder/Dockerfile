@@ -1,5 +1,6 @@
 FROM r.j3ss.co/wireguard:install
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apt update && apt -y install \
 	bash \

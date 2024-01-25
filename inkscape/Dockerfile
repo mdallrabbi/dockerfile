@@ -6,7 +6,7 @@
 #	jess/inkscape
 #
 FROM ubuntu:16.04
-LABEL maintainer "Daniel Romero <infoslack@gmail.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
 
