@@ -7,6 +7,8 @@
 #  r.j3ss.co/plexpy
 FROM alpine:latest
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 # Install required packages.
 RUN apk add --no-cache \
 	ca-certificates \

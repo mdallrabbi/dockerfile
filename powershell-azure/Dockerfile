@@ -1,5 +1,7 @@
 FROM r.j3ss.co/powershell:latest
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 # Install/Update PowerShellGet
 RUN pwsh -c "Install-Module PowerShellGet -Force"
 

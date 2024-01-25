@@ -1,5 +1,6 @@
 FROM debian:buster-slim
-LABEL maintainer "Christian Koep <christiankoep@gmail.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 ENV ROUTERSPLOIT_VERSION v3.4.0
 

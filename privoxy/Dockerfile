@@ -11,7 +11,8 @@
 # 	jess/privoxy
 #
 FROM alpine:latest
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apk --no-cache add \
 	privoxy
