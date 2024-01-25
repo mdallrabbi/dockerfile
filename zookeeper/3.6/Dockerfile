@@ -1,5 +1,7 @@
 FROM openjdk:8-alpine
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 ENV ZOOKEEPER_VERSION 3.6.1
 ENV PATH $PATH:/opt/zookeeper/bin/
 

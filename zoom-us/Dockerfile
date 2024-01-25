@@ -9,6 +9,8 @@
 
 FROM debian:sid-slim
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 ENV DEBIAN_FRONTEND noninteractive
 
 # Dependencies for the client .deb
