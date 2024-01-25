@@ -21,7 +21,7 @@
 # Base docker image
 FROM debian:bullseye-slim
 
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 # Tell debconf to run in non-interactive mode
 ENV DEBIAN_FRONTEND noninteractive
