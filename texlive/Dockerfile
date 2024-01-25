@@ -7,7 +7,8 @@
 # https://github.com/andygrunwald/FOM-LaTeX-Template
 
 FROM debian:bullseye-slim
-LABEL maintainer "Christian Koep <christiankoep@gmail.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apt-get update && apt-get install -y \
     texlive-full \

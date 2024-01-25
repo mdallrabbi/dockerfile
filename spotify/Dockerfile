@@ -11,7 +11,8 @@
 #	jess/spotify
 #
 FROM debian:sid-slim
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN	apt-get update && apt-get install -y \
 	ca-certificates \

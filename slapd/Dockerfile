@@ -25,7 +25,8 @@
 # host firewall is unconfigured.
 #
 FROM debian:bullseye-slim
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apt-get update && LC_ALL=C DEBIAN_FRONTEND=noninteractive \
 	apt-get install -y \

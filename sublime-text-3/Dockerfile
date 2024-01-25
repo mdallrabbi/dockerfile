@@ -24,7 +24,8 @@
 #
 
 FROM debian:bullseye-slim
-LABEL maintainer "Christian Koep <christiankoep@gmail.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apt-get update && apt-get -y install \
 	apt-transport-https \

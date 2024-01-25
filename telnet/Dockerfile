@@ -4,7 +4,8 @@
 #	jess/telnet towel.blinkenlights.nl
 #
 FROM alpine:latest
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 RUN apk add --no-cache --virtual \
 	busybox-extras

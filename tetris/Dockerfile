@@ -16,7 +16,8 @@
 
 # Base docker image
 FROM alpine:latest
-LABEL maintainer "Jessie Frazelle <jess@linux.com>"
+
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
 
 # Install emacs:
 # Note: Emacs is only in community repo -> https://pkgs.alpinelinux.org/packages?package=emacs&repo=all&arch=x86_64

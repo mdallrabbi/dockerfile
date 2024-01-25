@@ -1,5 +1,7 @@
 FROM shurshun/openresty:latest
 
+LABEL maintainer "MD ALL RABBI <md.all.rabbi@outlook.com>"
+
 STOPSIGNAL SIGTERM
 
 EXPOSE 80 443
